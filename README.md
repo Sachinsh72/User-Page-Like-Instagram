@@ -1,5 +1,5 @@
 # Instagram Like User Page 
-Design a instagram like user page using Reactjs ExpressJs and MongoDB, allowing users to signin if they have account if not then allowing to signup account.
+Design a instagram like user page using Reactjs, allowing users to signin if they have account if not then allowing to signup account.
 
 Live Link: <a href="https://userpageinstagram.netlify.app/" target="_blank">userpageinstagram.netlify.app</a>
 
